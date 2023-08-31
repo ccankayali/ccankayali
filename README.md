@@ -11,7 +11,7 @@ const aboutMe = {
   skills: {
     lang: "javascript, c#, node.js",
     framework: "react, .net, express.js",
-    database: "mongodb, mssql",
+    database: "mongodb, mssql"
   }
 };
 ```
