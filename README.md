@@ -6,11 +6,12 @@ const aboutMe = {
   school: "Celal Bayar University",
   social: {
     medium: "medium.com/ccankayali",
-    github: "github.com/ccankayali"
+    github: "github.com/ccankayali",
+    linkledin: "https://www.linkedin.com/in/ccankayali/"
   },
   skills: {
-    lang: "javascript, c#, node.js",
-    framework: "react, .net, express.js",
+    lang: "javascript, css, node.js",
+    framework: "react, tailwind, bootstrap, express.js",
     database: "mongodb, mssql"
   }
 };
