@@ -7,7 +7,7 @@ const aboutMe = {
   social: {
     medium: "medium.com/ccankayali",
     github: "github.com/ccankayali",
-    linkledin: "https://www.linkedin.com/in/ccankayali/"
+    linkledin: "linkedin.com/in/ccankayali/"
   },
   skills: {
     lang: "javascript, css, node.js",
