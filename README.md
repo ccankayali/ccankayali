@@ -11,7 +11,7 @@ const aboutMe = {
   },
   skills: {
     lang: "javascript, css, node.js",
-    framework: "react, tailwind, bootstrap, express.js",
+    framework: "react, bootstrap, express.js",
     database: "mongodb, mssql"
   }
 };
