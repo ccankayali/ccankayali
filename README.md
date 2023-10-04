@@ -5,9 +5,8 @@ const aboutMe = {
   from: "Turkey",
   school: "Celal Bayar University",
   social: {
-    medium: "medium.com/ccankayali",
+    medium: "medium.com/@ccankayali",
     github: "github.com/ccankayali",
-    linkledin: "linkedin.com/in/ccankayali/"
   },
   skills: {
     lang: "javascript, css, node.js",
