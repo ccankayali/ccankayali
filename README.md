@@ -2,7 +2,7 @@
 const aboutMe = {
   name: "Can Kayalı",
   shortname: "ccankayali",
-  from: "Turkey",
+  from: "İzmir, Turkey",
   school: "Celal Bayar University",
   social: {
     medium: "medium.com/@ccankayali",
