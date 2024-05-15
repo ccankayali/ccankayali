@@ -5,7 +5,6 @@ const aboutMe = {
   from: "İzmir, Turkey",
   school: "Celal Bayar University",
   social: {
-    medium: "medium.com/@ccankayali",
     github: "github.com/ccankayali",
   },
 };
